@@ -2,5 +2,5 @@
 
 * Currently focused on improving my skills as a **backend developer**
 * Main technology: **Go**
-* Looking for a **Junior / Junior+ Backend Developer** position
+* Looking for a **Junior+ / Middle Backend Developer** position
 * Reach me at: [dkostritsyn@gmail.com](mailto:dkostritsyn@gmail.com) | [Telegram](https://t.me/@DmitriyVKost)
