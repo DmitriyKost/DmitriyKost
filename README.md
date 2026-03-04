@@ -1,6 +1,5 @@
 ## Hi, I'm Dmitriy 👋
 
-* Currently focused on improving my skills as a **backend developer**
-* Main technology: **Go**
-* Looking for a **Junior+ / Middle Backend Developer** position
+* I'm a backend developer
+* Main technology: Go
 * Reach me at: [dkostritsyn@gmail.com](mailto:dkostritsyn@gmail.com) | [Telegram](https://t.me/@DmitriyVKost)
